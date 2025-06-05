@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: hi-boot
+  docker:
+    compose:
+      enabled: false
